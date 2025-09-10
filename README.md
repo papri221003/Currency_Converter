@@ -1,8 +1,9 @@
 # 💱 Currency Converter Web App  
 
-
 A **modern, responsive, and real-time** **Currency Converter Web Application** built using **HTML**, **CSS**, and **JavaScript**.  
 This app uses the **Exchange Rate API** to fetch **live exchange rates** and enables users to convert between multiple currencies instantly.  
+
+🔗 **Live Demo:** [Click Here to Try the App 🚀](https://papri221003.github.io/Currency_Converter/)
 
 ---
 
@@ -17,6 +18,8 @@ Perfect for travelers, developers, and anyone who needs quick currency conversio
 - 🎨 **Minimal & clean interface** for better usability  
 - 📱 **Fully responsive** — works seamlessly on **desktop, tablet, and mobile**  
 - ⚡ **Fast, lightweight, and user-friendly**  
+
+🔗 **Try it now:** [Currency Converter Live](https://papri221003.github.io/Currency_Converter/)
 
 ---
 
@@ -35,20 +38,31 @@ Perfect for travelers, developers, and anyone who needs quick currency conversio
 
 ## 🛠️ Tech Stack  
 
-| Technology           |                   Purpose          |       
-|----------------------|----------------------------------- |
-| **HTML5**            |          Structure of the web app  |
-| **CSS3**             |           Styling & layout design  |
+| Technology           | Purpose                             |
+|---------------------|--------------------------------------|
+| **HTML5**          | Structure of the web app            |
+| **CSS3**           | Styling & layout design             |
 | **JavaScript (ES6)** | API integration & conversion logic |
-| **Exchange Rate API** |      Fetching live currency rates |
+| **Exchange Rate API** | Fetching live currency rates      |
+
 ---
 
 ## 🌍 API Used  
 
 We use the **[ExchangeRate API](https://api.exchangerate-api.com/)** to fetch **real-time exchange rates** for accurate currency conversions.  
 
+**API Endpoint Example:**  
+https://api.exchangerate-api.com/v4/latest/USD
 
 
-05646532.0
+---
+
+## 📂 Project Structure  
 
 
+
+currency-converter/
+├── index.html # Main HTML file
+├── style.css # Styling for the app
+├── script.js # JavaScript for API integration & conversion logic
+└── README.md # Project documentation
