@@ -41,7 +41,6 @@ Perfect for travelers, developers, and anyone who needs quick currency conversio
 | **CSS3**             |           Styling & layout design  |
 | **JavaScript (ES6)** | API integration & conversion logic |
 | **Exchange Rate API** |      Fetching live currency rates |
-
 ---
 
 ## 🌍 API Used  
