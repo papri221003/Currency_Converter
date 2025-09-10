@@ -35,7 +35,7 @@ Perfect for travelers, developers, and anyone who needs quick currency conversio
 
 ## 🛠️ Tech Stack  
 
-| Technology           |                   Purpose          |          |
+| Technology           |                   Purpose          |       
 |----------------------|----------------------------------- |
 | **HTML5**            |          Structure of the web app  |
 | **CSS3**             |           Styling & layout design  |
