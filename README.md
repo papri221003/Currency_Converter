@@ -59,15 +59,8 @@ https://api.exchangerate-api.com/v4/latest/USD
 
 ## 📂 Project Structure  
 
-
-
 currency-converter/
 ├── index.html # Main HTML file
 ├── style.css # Styling for the app
 ├── script.js # JavaScript for API integration & conversion logic
 └── README.md # Project documentation
-
-
-
-
-
