@@ -48,3 +48,7 @@ Perfect for travelers, developers, and anyone who needs quick currency conversio
 We use the **[ExchangeRate API](https://api.exchangerate-api.com/)** to fetch **real-time exchange rates** for accurate currency conversions.  
 
 
+
+05646532.0
+
+
