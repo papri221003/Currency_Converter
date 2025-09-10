@@ -20,7 +20,6 @@ Perfect for travelers, developers, and anyone who needs quick currency conversio
 - ⚡ **Fast, lightweight, and user-friendly**  
 
 🔗 **Try it now:** [Currency Converter Live](https://papri221003.github.io/Currency_Converter/)
-
 ---
 
 ## ✨ Features  
